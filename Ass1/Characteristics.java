@@ -1,5 +1,12 @@
-class Characteristics{
-    public static void main(String args[]){
-        System.out.print("Hello This is a Test File for JAVA");
-    }
+public class Charactersticks
+{
+public static void main(String ar[])
+{
+System.out.println("Java charactersticks:");
+System.out.println("Class");
+System.out.println("Polymorphism");
+System.out.println("Inheritance");
+System.out.println("Abstraction");
+System.out.println("Encapsulation");
+}
 }
